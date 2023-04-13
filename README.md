@@ -34,19 +34,21 @@ Welcome to Meme X, a Discord server that guarantees to provide you with a variet
 
 </div>
 
+---
+
 <div align="center">
 
-# Get a Sneak Peek!
+# Server Status
 
 </div>
 
 <div align="center">
 
-👀 Take a sneak peek inside our server by viewing our Discord Widget below 👀
+👥 Members: 
+![Discord](https://img.shields.io/discord/850301137147658261?color=7289DA&label=&logo=discord&logoColor=white&style=flat-square)
 
-<br>
-
-[![Meme X Discord Widget](https://i.imgur.com/JzoJfzs.png)](https://discord.gg/memex)
+📁 Channels: 
+![Discord](https://img.shields.io/badge/-Channels%20not%20available-blue?style=flat-square)
 
 </div>
 
