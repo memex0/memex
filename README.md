@@ -12,7 +12,7 @@
 
 </div>
 
-Welcome to Meme X, a Discord server that guarantees to provide you with a variety of memes that will surely make you laugh. We have everything from NSFW memes to offensive and cursed memes, ensuring that we cater to everyone's sense of humor.
+Welcome to Meme X, a Discord server that guarantees to provide you with a variety of memes that will surely make you laugh. We have everything from clean memes to NSFW memes, offensive and cursed memes, ensuring that we cater to everyone's sense of humor.
 
 ---
 
@@ -58,5 +58,3 @@ And so much more!
 </div>
 
 Join Meme X now and have some laughs! If you have any questions, concerns, or suggestions, feel free to reach out to our friendly staff members. See you on the server!
-
-Keywords: memex, memes, nsfw-memes, nsfw-meme, offensive, offensive-meme, offensivememe, nsfwmeme, offensivememes, meme, meme x, memex discord, meme x discord, offensive-memes.
