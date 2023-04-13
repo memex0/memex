@@ -60,9 +60,9 @@ Welcome to Meme X, a Discord server that guarantees to provide you with a variet
 
 </div>
 
-Our server has a lot to offer, including:
 
 <div align="center">
+Our server has a lot to offer, including:
 
 💬 Wide variety of memes<br>
 😂 Offensive & Cursed memes<br>
@@ -73,9 +73,10 @@ Our server has a lot to offer, including:
 🎵 High-Bitrate Voice Chats and Music<br>
 💋 Wide variety of Porn Content<br>
 
+And so much more!
+
 </div>
 
-And so much more!
 
 ---
 
