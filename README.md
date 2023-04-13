@@ -46,7 +46,7 @@ Welcome to Meme X, a Discord server that guarantees to provide you with a variet
 
 <br>
 
-<iframe src="https://discord.com/widget?id=850301137147658261&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=850301137147658261&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"/>
 
 </div>
 
