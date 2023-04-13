@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Meme X Logo](https://cdn.discordapp.com/icons/850301137147658261/20f0f1652e822178a4976b423d0bcc7b.jpg?size=512)
+# ![Meme X Logo](https://cdn.discordapp.com/icons/850301137147658261/20f0f1652e822178a4976b423d0bcc7b.jpg?size=100)
 
 </div>
 
